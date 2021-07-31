@@ -16,7 +16,7 @@ body {
   height: 100%;
   margin: 0;
   background: #261c33;
-  overflow: hidden;
+  overflow: auto;
   display: flex; 
   align-items: center; 
   justify-content: center 
